@@ -10,4 +10,4 @@ Lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-online
 
 Berikut ini adalah screenshot hasil belajar
 
-<img src="__screenshots/1.png">
+<img src="./screenshot/1.jpg">
